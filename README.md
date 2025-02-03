@@ -42,6 +42,9 @@ A comprehensive data analysis project using Power BI to analyze sales performanc
 ### [📊 COVID-19 Analysis Dashboard](https://github.com/Mohitshri01/Covid-19-Vaccination)
 A data visualization dashboard built with Python and Power BI to track COVID-19 data trends and provide insights.
 
+### [🌐 iTech World](https://i-tech-gamma.vercel.app/)
+An educational website providing resources for students in grades 10-12, and engineering/medical aspirants, featuring interactive content and a user-friendly interface.
+
 ---
 
 ## 📫 Let's Connect
