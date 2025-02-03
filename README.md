@@ -33,13 +33,13 @@ Hi there! I'm **Mohit Shrivastav**, an enthusiastic and detail-oriented aspiring
 ---
 
 ## 📂 Featured Projects
-### [📊 Heart Disease Prediction](https://github.com/mohitshrivastav/Heart-Disease-Prediction)
+### [📊 Heart Disease Prediction](https://github.com/Mohitshri01/Heart-Disease-Prediction)
 A Python-based project predicting the likelihood of heart disease using Kaggle data.
 
-### [📉 Sales Data Analysis](https://github.com/mohitshrivastav/Sales-Data-Analysis)
+### [📉 Sales Data Analysis](https://github.com/Mohitshri01/Sales-Dashboard)
 A comprehensive data analysis project using Power BI to analyze sales performance data.
 
-### [📊 COVID-19 Analysis Dashboard](https://github.com/mohitshrivastav/Covid-19-Dashboard)
+### [📊 COVID-19 Analysis Dashboard](https://github.com/Mohitshri01/Covid-19-Vaccination)
 A data visualization dashboard built with Python and Power BI to track COVID-19 data trends and provide insights.
 
 ---
