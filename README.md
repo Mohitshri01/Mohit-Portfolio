@@ -1,57 +1,54 @@
-# 💻 Prashant Saini | Aspiring Software Developer
+# 💻 Mohit Shrivastav | Aspiring Data Analyst
 
-Hi there! I'm **Prashant Saini**, an enthusiastic fresher with a passion for coding and a strong desire to build innovative solutions. I specialize in **Web Development** and have experience with technologies like **HTML, CSS, JavaScript, Node.js, and SQL**. Currently, I'm sharpening my skills in **Java** and **Data Structures & Algorithms (DSA)**.
+Hi there! I'm **Mohit Shrivastav**, an enthusiastic and detail-oriented aspiring Data Analyst with a passion for data and a strong desire to extract insights and drive data-driven decision-making. I specialize in **Data Analysis** and have experience with tools like **Python, SQL, Power BI**, and **Excel**. Currently, I'm sharpening my skills in **Machine Learning** and **Data Visualization**.
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech in Information Technology from **Dr. A.P.J. Abdul Kalam Technical University**.
-- 💡 Always eager to learn and contribute to exciting projects.
-- 🎯 Aspiring to become a Software Developer at a leading MNC.
-- 🌱 Currently learning **Full-Stack Development** and **Java**.
+- 🎓 B.Tech in **Information Technology** from **Dr. A.P.J. Abdul Kalam Technical University**.
+- 💡 Eager to analyze complex data sets to provide actionable insights.
+- 🎯 Aspiring to become a Data Analyst at a leading organization.
+- 🌱 Currently learning **Machine Learning** and **Data Visualization** techniques.
 
 ---
 
 ## 🛠️ Skills
-- **Programming Languages**: Java, JavaScript  
-- **Backend**: Node.js  
-- **Markup, Styling & Web Technologies**: HTML, CSS, EJS  
+- **Programming Languages**: Python, SQL  
+- **Data Analysis & Visualization**: Power BI, Excel, Pandas, Matplotlib, Seaborn  
+- **Database Management**: SQL, MySQL  
 - **Version Control**: Git, GitHub  
-- **Database Management**: MongoDB, SQL  
-- **Productivity Software**: Excel, Notion, Custom Chatbot  
-- **Development Tools**: Visual Studio Code, Google Colaboratory, Power BI  
+- **Development Tools**: Jupyter Notebook, Google Colaboratory, Visual Studio Code
 
 ---
 
 ## 🌟 Portfolio Highlights
-### 🌐 [My Portfolio Website](https://prashant-saini-22.vercel.app)
+### 🌐 [My Portfolio Website](https://mohit-portfolio-kappa.vercel.app/)
 **What’s inside?**
-- **Technologies Used**: HTML, CSS, JavaScript, Responsive Design, Animations
+- **Technologies Used**: HTML, CSS, JavaScript, Responsive Design, Data Visualizations
 - **Features**:
   - Fully responsive design for seamless viewing across devices.
-  - Hover effects and modern UI/UX components.
-  - Interactive elements to showcase projects and skills.
-  - Easy navigation with clean layouts.
+  - Interactive elements showcasing projects and skills.
+  - Visualizations for data analysis projects to demonstrate expertise.
 
 ---
 
 ## 📂 Featured Projects
-### [📊 Heart Disease Prediction](https://github.com/prashantsaini1525/Heart-Disease-Predicition)
+### [📊 Heart Disease Prediction](https://github.com/mohitshrivastav/Heart-Disease-Prediction)
 A Python-based project predicting the likelihood of heart disease using Kaggle data.
 
-### [📚 Library Management System](https://github.com/prashantsaini1525/MyLibrary)
-A Node.js and EJS-powered application for managing books and authors.
+### [📉 Sales Data Analysis](https://github.com/mohitshrivastav/Sales-Data-Analysis)
+A comprehensive data analysis project using Power BI to analyze sales performance data.
 
-### [🌐 iTech World](https://github.com/prashantsaini1525/ITech)
-An educational website for students in grades 10 to 12 and engineering/medical aspirants.
+### [📊 COVID-19 Analysis Dashboard](https://github.com/mohitshrivastav/Covid-19-Dashboard)
+A data visualization dashboard built with Python and Power BI to track COVID-19 data trends and provide insights.
 
 ---
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio](https://prashant-saini-22.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/prashant-saini)
-- 🐦 [Twitter](https://x.com/Prashan58889893)
+- 🌐 [Portfolio](https://mohit-portfolio-kappa.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohit-shrivastav-706676267/)
+- 🐦 [Twitter](https://x.com/imMshri?t=j_g_xr-b7PakdwRC_bnInw&s=09)
 
 ---
 
-🌟 _"Coding is not just my skill; it's my superpower."_ 🌟
+🌟 _"Data is the new oil, and I am here to extract insights from it."_ 🌟
